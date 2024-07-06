@@ -1,4 +1,4 @@
-package com.arcirina.service;
+package com.arcirina.catalogue;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
